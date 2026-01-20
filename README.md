@@ -24,5 +24,5 @@
 
 1. Клонирование репозитория
 ```bash
-git clone https://github.com/ваш-логин/forgotten_backpack_detector.git
+git clone https://github.com/lenushonok/forgotten_backpack_detector.git
 cd forgotten_backpack_detector
